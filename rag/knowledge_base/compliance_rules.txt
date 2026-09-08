@@ -1,0 +1,31 @@
+BANKGUARD AI COMPLIANCE KNOWLEDGE BASE
+
+RULE 1: CUSTOMER DUE DILIGENCE AND KYC
+Banks should verify customer identity and maintain appropriate customer information before providing financial services. Transactions involving customers whose KYC information is incomplete or unverified should receive additional compliance attention.
+
+RULE 2: LARGE TRANSACTIONS
+Large-value transactions require enhanced monitoring because they may present increased money laundering or financial crime risks. BankGuard AI should flag unusually large transactions for additional assessment.
+
+RULE 3: TRANSACTION FREQUENCY
+A high frequency of transactions within a short period may indicate unusual activity. Transactions with unusually high frequency should be monitored and may require compliance review.
+
+RULE 4: INTERNATIONAL TRANSACTIONS
+International transactions may require additional monitoring because cross-border activity can create increased compliance and money laundering risks.
+
+RULE 5: BUSINESS-TO-PERSONAL TRANSFERS
+Transfers from business accounts to personal accounts should receive additional scrutiny where the transaction does not have a clear legitimate purpose. BankGuard AI may require administrator authorization for such transactions.
+
+RULE 6: HIGH-RISK TRANSACTIONS
+Transactions classified as high risk should be blocked according to BankGuard AI security rules and may require administrator authorization before further action.
+
+RULE 7: MEDIUM-RISK TRANSACTIONS
+Transactions classified as medium risk should be placed under compliance review before being approved.
+
+RULE 8: AUDIT TRAIL
+Security decisions should be recorded in an audit trail containing information such as transaction ID, risk level, decision, reasons, flags and timestamp.
+
+RULE 9: HUMAN COMPLIANCE REVIEW
+Automated systems should support compliance officers rather than completely replacing human oversight. Transactions requiring review should be presented to an authorized compliance reviewer.
+
+RULE 10: SECURITY PRINCIPLE
+BankGuard AI should use multiple security signals, including fraud risk, KYC status, AML indicators, transaction monitoring and account controls, when determining the overall transaction risk.

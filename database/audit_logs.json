@@ -1,0 +1,1903 @@
+[
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T01:31:33.087195",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T01:31:33.194133",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:31:35.161008",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:31:35.258952",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:31:35.326914",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T01:31:35.725685",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T01:31:35.803048",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T01:40:46.380413",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T01:40:46.425065",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:40:47.324969",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:40:47.349823",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:40:47.396964",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T01:40:47.825339",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T01:40:47.871014",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T01:42:10.987491",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 5 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T01:51:12.345127",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T01:51:12.383225",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:51:13.306248",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:51:13.340123",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:51:13.389763",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T01:51:13.760797",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T01:51:13.806772",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T01:54:02.305680",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T01:54:02.350300",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:54:03.056162",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:54:03.093311",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:54:03.136812",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T01:54:03.665353",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T01:54:03.707196",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T01:55:49.684888",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T01:55:49.724414",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:55:50.625057",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:55:50.668571",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:55:50.712857",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T01:55:51.150796",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T01:55:51.192698",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T01:57:02.844865",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T01:57:02.898571",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:57:03.950045",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:57:03.999194",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T01:57:04.055053",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T01:57:04.500242",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T01:57:04.556806",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T01:58:09.219668",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.17%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:02:20.455661",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:02:20.479475",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:02:21.318347",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:02:21.349989",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:02:21.385045",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:02:21.796295",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:02:21.842669",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:03:35.961552",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:03:36.003995",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:03:36.844458",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:03:36.874870",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:03:36.917871",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:03:37.385244",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:03:37.459370",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:05:13.989204",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:05:14.032652",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:05:14.934503",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:05:14.967990",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:05:15.013891",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:05:15.379609",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:05:15.428350",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:06:30.115883",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:06:30.167487",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:06:31.001988",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:06:31.058402",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:06:31.118170",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:06:31.550384",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:06:31.608851",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:09:46.229796",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:09:46.285075",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:09:47.002509",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:09:47.041920",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:09:47.092800",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:09:47.436334",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:09:47.476949",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:11:47.980666",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:11:48.022301",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:11:48.870656",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:11:48.905534",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:11:48.958377",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:11:49.314225",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:11:49.369250",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:13:24.917564",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:13:24.959786",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:13:25.929234",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:13:25.962286",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:13:26.006765",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:13:26.422993",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:13:26.464074",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T02:15:39.741545",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T02:15:39.784984",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:15:40.641834",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:15:40.686131",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T02:15:40.730597",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T02:15:41.069718",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T02:15:41.120975",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T03:33:19.007838",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T03:33:19.092071",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:33:20.858671",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:33:20.911200",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:33:20.976671",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T03:33:21.485374",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T03:33:21.549739",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T03:52:02.719856",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T03:52:02.759459",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:52:03.466554",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:52:03.501954",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:52:03.554301",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T03:52:03.893530",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T03:52:03.944283",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T03:58:18.739267",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T03:58:18.778135",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:58:19.478762",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:58:19.517027",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T03:58:19.561183",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T03:58:20.045177",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T03:58:20.095868",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T04:08:34.524493",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T04:08:34.571363",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T04:08:35.377894",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T04:08:35.413368",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T04:08:35.458243",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T04:08:35.794519",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T04:08:35.838512",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:09:00.768683",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.58%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:09:28.124227",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_HIGH_TEST",
+        "timestamp": "2026-09-08T04:21:27.132675",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_AUDIT_PERSISTENCE_TEST",
+        "timestamp": "2026-09-08T04:21:27.194421",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T04:21:27.911833",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T04:21:27.998184",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_RAG_INTEGRATION_TEST",
+        "timestamp": "2026-09-08T04:21:28.110830",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_SECURITY_TEST",
+        "timestamp": "2026-09-08T04:21:28.444264",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (99.97%). Transaction should be blocked. | KYC Agent: Sender KYC verification is missing. Transaction requires review. | AML Agent: High AML risk detected with 6 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER, SENDER_KYC_NOT_VERIFIED, ECOCASH_NOT_CONNECTED.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_CLEAN_SECURITY",
+        "timestamp": "2026-09-08T04:21:28.501307",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.02%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:22:01.161280",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.58%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:23:38.472527",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: High AML risk detected with 4 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:24:11.808838",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: High AML risk detected with 4 risk indicators. Suspicious activity requires blocking and compliance investigation. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:25:01.696294",
+        "risk_level": "MEDIUM",
+        "decision": "REVIEW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (35.12%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_TRANSACTION_FREQUENCY, INTERNATIONAL_TRANSACTION, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "COMPLIANCE_REVIEW"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:34:19.663636",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T04:47:31.505307",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 2 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:00:12.660531",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 2 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:05:52.255792",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 2 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:16:45.399746",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:17:13.424088",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:24:40.775060",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.58%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:26:13.715837",
+        "risk_level": "LOW",
+        "decision": "ALLOW",
+        "reason": "Fraud Agent: Low probability of fraudulent activity (0.58%). Transaction can be allowed. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Low AML risk detected. No significant suspicious activity indicators were identified.",
+        "flags": []
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T05:26:34.593325",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T06:17:21.368242",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T06:27:42.139356",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T06:30:44.412794",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T06:41:33.563456",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T06:50:16.369572",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    },
+    {
+        "transaction_id": "TX_STREAMLIT_TEST",
+        "timestamp": "2026-09-08T07:05:17.155979",
+        "risk_level": "HIGH",
+        "decision": "BLOCK",
+        "reason": "Fraud Agent: High probability of fraudulent activity (100.00%). Transaction should be blocked. | KYC Agent: Both sender and receiver have verified KYC information. | AML Agent: Medium AML risk detected with 3 risk indicators. Transaction requires compliance review. Flags: HIGH_VALUE_TRANSACTION, HIGH_TRANSACTION_FREQUENCY, BUSINESS_TO_PERSONAL_TRANSFER.",
+        "flags": [
+            "Large transaction requires monitoring.",
+            "Business-to-personal transfer requires administrator authorization.",
+            "ADMIN_AUTHORIZATION_REQUIRED",
+            "HIGH_RISK_TRANSACTION"
+        ]
+    }
+]
