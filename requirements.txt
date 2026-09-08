@@ -1,6 +1,7 @@
-streamlit==1.63.0
+﻿streamlit==1.63.0
 pandas
 numpy
 scikit-learn
 plotly
 pytest
+opencv-contrib-python-headless==5.0.0.93
