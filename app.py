@@ -1,4 +1,5 @@
-﻿import streamlit as st
+import streamlit as st
+import streamlit.components.v1 as components
 
 from reports.audit_monitor import get_audit_summary
 from security.unified_security_controller import process_transaction_security
@@ -9,6 +10,51 @@ from security.unlock_controller import (
 )
 from security.face_auth import verify_admin_face
 from security.admin_auth import authorize_admin_with_face
+
+def play_browser_alarm():
+    components.html(
+        """
+        <script>
+        const AudioContext = window.AudioContext || window.webkitAudioContext;
+        const ctx = new AudioContext();
+
+        function beep(frequency, duration) {
+            const oscillator = ctx.createOscillator();
+            const gain = ctx.createGain();
+
+            oscillator.type = "square";
+            oscillator.frequency.value = frequency;
+            gain.gain.value = 0.25;
+
+            oscillator.connect(gain);
+            gain.connect(ctx.destination);
+
+            oscillator.start();
+            setTimeout(() => {
+                oscillator.stop();
+            }, duration);
+        }
+
+        if (ctx.state === "suspended") {
+            ctx.resume();
+        }
+
+        beep(1200, 500);
+
+        setTimeout(() => {
+            beep(800, 500);
+        }, 700);
+
+        setTimeout(() => {
+            beep(1200, 500);
+        }, 1400);
+        </script>
+        """,
+        height=0,
+    )
+
+
+
 def show_security_warning():
     st.markdown(
         """
@@ -80,7 +126,7 @@ def show_security_warning():
 
 st.set_page_config(
     page_title="BankGuard AI",
-    page_icon="ðŸ›¡ï¸",
+    page_icon="🛡️",
     layout="wide",
 )
 
@@ -100,7 +146,7 @@ if "security_response" not in st.session_state:
 # HEADER
 # ============================================================
 
-st.title("ðŸ›¡ï¸ BankGuard AI")
+st.title("🛡️ BankGuard AI")
 
 st.subheader(
     "AI-Powered Banking Security and Compliance System"
@@ -275,6 +321,7 @@ if st.button(
     if response.security_lock.locked:
         show_security_warning()
         start_alarm()
+        play_browser_alarm()
     else:
         stop_alarm()
 
@@ -298,19 +345,19 @@ if response is not None:
     if decision.final_decision == "ALLOW":
 
         st.success(
-            "âœ… TRANSACTION ALLOWED"
+            "✅ TRANSACTION ALLOWED"
         )
 
     elif decision.final_decision == "REVIEW":
 
         st.warning(
-            "âš ï¸ TRANSACTION REQUIRES COMPLIANCE REVIEW"
+            "⚠️ TRANSACTION REQUIRES COMPLIANCE REVIEW"
         )
 
     elif decision.final_decision == "BLOCK":
 
         st.error(
-            "ðŸš¨ CRITICAL: TRANSACTION BLOCKED"
+            "🚨 CRITICAL: TRANSACTION BLOCKED"
         )
 
     st.write(
@@ -369,14 +416,14 @@ if response is not None:
         if response.alert.level == "CRITICAL":
 
             st.error(
-                "ðŸš¨ CRITICAL SECURITY ALERT\n\n"
+                "🚨 CRITICAL SECURITY ALERT\n\n"
                 + response.alert.message
             )
 
         else:
 
             st.warning(
-                "âš ï¸ SECURITY WARNING\n\n"
+                "⚠️ SECURITY WARNING\n\n"
                 + response.alert.message
             )
 
@@ -474,11 +521,11 @@ if response is not None:
             start_alarm()
 
             st.error(
-                "ðŸ”’ SYSTEM LOCKED"
+                "🔒 SYSTEM LOCKED"
             )
 
             st.warning(
-                "ðŸš¨ SECURITY ALARM ACTIVE"
+                "🚨 SECURITY ALARM ACTIVE"
             )
 
             st.write(
@@ -619,6 +666,9 @@ if response is not None:
 # ============================================================
 
 st.divider
+
+
+
 
 
 
