@@ -34,3 +34,6 @@ install_face_unlock.py
 .idea/
 .DS_Store
 Thumbs.db
+
+security/admin_password.json
+data/face_auth/

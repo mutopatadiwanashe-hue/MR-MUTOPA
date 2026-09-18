@@ -130,6 +130,9 @@ st.set_page_config(
     layout="wide",
 )
 
+from security.login_ui import require_admin_login
+require_admin_login()
+
 
 # ============================================================
 # SESSION STATE
